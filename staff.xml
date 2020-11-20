@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO8859-1" ?>
+<webpagedevelop>
+	<movie>
+		<name>Fast and Furious</name>
+		<rating>8.7</rating>
+		<language>English</language>
+		<cost>746Cr</cost>
+	</movie>
+	<movie>
+		<name>Pailwaan</name>
+		<rating>6.4</rating>
+		<language>Kannada</language>
+		<cost>237Cr</cost>
+	</movie>
+	<movie>
+		<name>Majili</name>
+		<rating>7.2</rating>
+		<language>Telugu</language>
+		<cost>486Cr</cost>
+	</movie>
+	
+	<movie>
+		<name>Dil Bechara</name>
+		<rating>7.9</rating>
+		<language>Hindi</language>
+		<cost>767Cr</cost>
+	</movie>
+	<movie>
+		<name>96</name>
+		<rating>8.6</rating>
+		<language>Tamil</language>
+		<cost>596Cr</cost>
+	</movie>
+</webpagedevelop>
+
